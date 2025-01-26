@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493523066062",
+    "project_id": "barberia-peludito",
+    "storage_bucket": "barberia-peludito.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493523066062:android:c8979cac10e8853c6b849f",
+        "android_client_info": {
+          "package_name": "com.barber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJEJgP0kRk4R_OnHrPgO4fD8UL-NGKVK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493523066062:android:b797a9c46a8e46856b849f",
+        "android_client_info": {
+          "package_name": "com.barberia.barberapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJEJgP0kRk4R_OnHrPgO4fD8UL-NGKVK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
