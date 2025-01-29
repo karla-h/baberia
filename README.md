@@ -1,16 +1,19 @@
-# barberapp
+# Aplicación Móvil de Gestión de Citas | Barbería Style
 
-App Barberia Peludito
+Este proyecto consiste en una aplicación móvil desarrollada en **Flutter** para la gestión eficiente de citas en **Barbería Style**. La aplicación incluye un panel de control (dashboard) que permite analizar las citas realizadas y los servicios más solicitados, ayudando a optimizar los procesos internos y a mejorar la experiencia del cliente.
 
-## Getting Started
+![App Screenshot](app.jpg)
 
-This project is a starting point for a Flutter application.
+## Tecnologías Utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+- **Lenguaje de Programación:** Dart (Flutter)
+- **Framework:** Flutter
+- **Base de Datos:** Firebase
+- **Entorno de Desarrollo:** Android Studio / Visual Studio Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Requisitos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Aplicación Móvil
+- **Flutter:** Asegúrate de tener la última versión de [Flutter](https://flutter.dev/docs/get-started/install) instalada en tu sistema.
+- **Android Studio** o **Visual Studio Code** para el desarrollo y ejecución de la aplicación.
+- **Firebase:** Una cuenta en Firebase para gestionar la base de datos y autenticación.
